@@ -1,0 +1,37 @@
+@charset "UTF-8";
+body {
+  background-color: rgb(57, 153, 177);
+}
+ 
+#wrap {
+  width: 960px;
+  margin: auto;
+  background-color: rgb(251, 247, 229);
+}
+ å
+header {
+  padding: 40px;
+  height: 80px;
+}
+ 
+nav {
+  padding: 8px 40px;
+  background-color: rgb(153, 78, 78);
+  color: rgb(96, 24, 24);
+}
+ 
+main {
+  padding: 40px;
+  height : 400px;
+}
+ 
+footer {
+  padding: 40px;
+  height: 40px;
+  background-color : rgb(150, 75, 75);
+  color: rgb(109, 16, 16);
+}
+.page-title {
+    font-size: 45px;
+    color: rgb(153, 78, 78);
+    }
